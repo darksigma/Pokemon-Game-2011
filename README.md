@@ -1,0 +1,1 @@
+I built this simple emulation of the classic Pokemon game in Java as a project for a computer science class in 2011. It employs the GridWorld framework/API. 
